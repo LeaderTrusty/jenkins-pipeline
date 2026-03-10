@@ -1,5 +1,4 @@
-name: Jenkins Pipeline
-
+name: Java CI
 on: [push]
 
 jobs:
